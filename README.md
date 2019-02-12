@@ -1,6 +1,6 @@
 # Behavioral_Questions
 
-##Hello Guys !!!!!!!!
+## Hello Guys !!!!!!!!
 
 This repository consist of all behavioural questions which may be asked in interviews. I try to add best answers 
 according to my experience and learning . These questions can have different answers also.You can modify them according to the situation.
@@ -8,4 +8,4 @@ There is no hard and fast rule to answer behavioural question. These questions a
 can take best decision while hiring their human resources as human is best capital for any organisation to run properly.
 
 
-###Don't hesitate to give suggestions to make it better. Your one contribution can bring a big change.
+### Don't hesitate to give suggestions to make it better. Your one contribution can bring a big change.
