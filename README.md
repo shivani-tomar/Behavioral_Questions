@@ -18,9 +18,3 @@ List of Questions are : -
 * [time_question](https://github.com/shivani-tomar/Behavioral_Questions/blob/master/time_question)
 * [working_with_particular_company_question](https://github.com/shivani-tomar/Behavioral_Questions/blob/master/working_with_particular_company_question)
 * [workoholic_question](https://github.com/shivani-tomar/Behavioral_Questions/blob/master/workoholic_question)
-
-
-
-
-
-### Don't hesitate to give suggestions to make it better. Your one contribution can bring a big change.
